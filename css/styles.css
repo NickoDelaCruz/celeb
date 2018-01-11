@@ -1,0 +1,10 @@
+#ResultA, #ResultB{
+  display: none;
+}
+body{
+  text-align: center;
+}
+.btn{
+  background-color: pink;
+  font-weight: bold;
+}
